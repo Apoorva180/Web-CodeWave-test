@@ -1,0 +1,264 @@
+
+   
+.bg-icon1,
+.illustration-icon {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 1440px;
+     height: 884px;
+   }
+   .illustration-icon {
+     object-fit: cover;
+   }
+   .icon,
+   .text7,
+   .video {
+     position: absolute;
+     top: 0;
+     left: 66px;
+     width: 277px;
+     height: 67px;
+   }
+   .icon,
+   .video {
+     top: 1px;
+     left: -29px;
+     width: 92px;
+     height: 96px;
+   }
+   .video {
+     top: 675px;
+     left: 962px;
+     width: 343px;
+     height: 67px;
+   }
+   .lets-get-started {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 100%;
+    color: rgba(255, 255, 255, 1);
+  }
+  .watch-this-quick {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    font-size:14px;
+    display: flex;
+    align-items: center;
+    width: 277px;
+    height: 31px;
+    color: rgba(255, 255, 255, 1);
+  }
+   .best-nft-collection {
+     position: absolute;
+     top: 201px;
+     left: 0;
+     letter-spacing: 0.3px;
+     display: flex;
+     align-items: center;
+     width: 517px;
+     height: 43px;
+     color: rgba(255, 255, 255, 1);
+   }
+   .just-got-even {
+     font-size: var(--font-size-31xl);
+   }
+   p.cryptocurrency-just-got-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    width: 517px;
+    height: 166px;
+    font-size: 63px;
+    font-family: Poppins;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 200px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+
+
+  }
+  .cryptocurrency-just-got-container1 {
+    line-break: anywhere;
+    width: 100%;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  
+   .heading-content {
+     position: absolute;
+     top: 320px;
+     left: 788px;
+     width: 517px;
+     height: 244px;
+   }
+   .button-log-in-child {
+     position: absolute;
+     top: 0;
+     left: 0;
+     border-radius: var(--br-8xs);
+     background-color: var(--color-gray-300);
+     backdrop-filter: blur(10px);
+     width: 112px;
+     height: 42px;
+   }
+   .log-in {
+     position: absolute;
+     top: 13px;
+     left: 34px;
+     line-height: 15px;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 1);
+   }
+   .button-find-loan-child,
+   .button-log-in {
+     position: absolute;
+     top: 5px;
+     left: 934px;
+     width: 112px;
+     height: 42px;
+   }
+   .button-find-loan-child {
+     top: 0;
+     left: 0;
+     border-radius: var(--br-8xs);
+     background-color: var(--color-midnightblue);
+     backdrop-filter: blur(10px);
+   }
+   .sign-up {
+     position: absolute;
+     top: 11px;
+     left: 27px;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 1);
+   }
+   .button-find-loan {
+     position: absolute;
+     top: 5px;
+     left: 1058px;
+     width: 112px;
+     height: 42px;
+     color: var(--color-snow);
+   }
+   .home,
+   .services {
+     position: absolute;
+     top: 0;
+     left: 0;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 1);
+   }
+   .services {
+     left: 78.53px;
+   }
+   .creators {
+     left: 177.53px;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 1);
+   }
+   .about1,
+   .creators,
+   .meno {
+     position: absolute;
+     top: 0;
+   }
+   .about1 {
+     left: 279.53px;
+     font-weight: 500;
+     color: rgba(255, 255, 255, 1);
+   }
+   .meno {
+     left: 0;
+     width: 328.53px;
+     height: 24px;
+   }
+   .menu-child {
+     top: 29px;
+     left: 13.53px;
+     border-radius: var(--br-8xs);
+     background-color: var(--cold-grey-white);
+     width: 20px;
+     height: 2px;
+   }
+   .hovas1,
+   .menu,
+   .menu-child {
+     position: absolute;
+   }
+   .menu {
+     top: 15px;
+     left: 421px;
+     width: 328.53px;
+     height: 31px;
+     font-size: var(--font-size-base);
+   }
+   .hovas1 {
+     top: 9px;
+     left: 53px;
+     line-height: 100%;
+     font-family: Poppins;
+     font-size: 32px;
+     font-weight: 500;
+     line-height: 32px;
+     letter-spacing: 0em;
+     text-align: left;
+     color: rgba(255, 255, 255, 1);
+   }
+   .d-logo-icon1,
+   .header,
+   .logo1,
+   .navigation {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 49px;
+   }
+   .d-logo-icon1 {
+     width: 45px;
+     object-fit: cover;
+   }
+   .header,
+   .logo1,
+   .navigation {
+     width: 154px;
+     text-align: left;
+     font-size: var(--font-size-13xl);
+   }
+   .header,
+   .navigation {
+     top: 25px;
+     left: 135px;
+     width: 1170px;
+     text-align: center;
+     font-size: var(--font-size-mini);
+   }
+
+   .header {
+     top: 0;
+     left: 0;
+     width: 1440px;
+     height: 884px;
+     text-align: left;
+     font-size: var(--font-size-xl);
+     color: var(--cold-grey-white);
+     font-family: var(--font-poppins);
+   }
+   
+   
+
+  
